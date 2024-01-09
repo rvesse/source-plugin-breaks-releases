@@ -12,7 +12,9 @@ Basically if your build fails with the following message:
 
 Then you have hit some variant of this bug.
 
-This repository particularly focuses on reproducing the bug when trying to perform a Maven release.
+This repository particularly focuses on reproducing the bug when trying to perform a Maven release.  This is perhaps the
+most frustrating variant of the bug because your build processes will all be working absolutely fine right up until you
+do a `mvn release:perform` at which point things start failing unexpectedly.
 
 # How do I reproduce the bug from this repository?
 
