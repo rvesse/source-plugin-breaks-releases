@@ -1,6 +1,6 @@
 # What is this?
 
-This is a minimal, reproducible example of a bug in the [maven-sources-plugin][1] which is tracked by several JIRA issues:
+This is a minimal, reproducible example of a bug related to certain usages of the [maven-sources-plugin][1] which is tracked by several JIRA issues:
 
 - [MSOURCES-140][2]
 - [MSOURCES-141][3]
